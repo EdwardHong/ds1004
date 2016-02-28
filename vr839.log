@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 gs2671
 *   4d61745 9th Commit (6th on master)
 |\  
@@ -17,6 +16,7 @@ gs2671
 |/ /  
 * | 16e0670 2nd Commit (2nd on master)
 |/  
+* 301f57f 1st Commit (1st on master)
 
 jmp840
 *   615a14b fifth commit on master
@@ -38,8 +38,6 @@ jmp840
 |/  
 * a3e635b first commit on master
 
-=======
->>>>>>> 71d1bfc7d155c23c28fb96977874f658c708acaa
 swh274
 *   a797910 has 1,2,1-1,2-1 DONE.
 |\  
@@ -81,4 +79,3 @@ vr839
 * | 60d92ed file 1 in Master
 |/  
 * 10c6a25 New
-
