@@ -58,6 +58,7 @@ swh274
 |/  
 * 3f775aa added M
 
+<<<<<<< HEAD
 vr839
 *   9be4327 Merge branch 'b1'
 |\  
@@ -80,3 +81,5 @@ vr839
 |/  
 * 10c6a25 New
 
+=======
+>>>>>>> 71d1bfc7d155c23c28fb96977874f658c708acaa
