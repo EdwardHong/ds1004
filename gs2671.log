@@ -18,7 +18,6 @@ gs2671
 |/  
 * 301f57f 1st Commit (1st on master)
 
-<<<<<<< HEAD
 jmp840
 *   615a14b fifth commit on master
 |\  
@@ -39,8 +38,6 @@ jmp840
 |/  
 * a3e635b first commit on master
 
-=======
->>>>>>> 71d1bfc7d155c23c28fb96977874f658c708acaa
 swh274
 *   a797910 has 1,2,1-1,2-1 DONE.
 |\  
@@ -61,7 +58,6 @@ swh274
 |/  
 * 3f775aa added M
 
-<<<<<<< HEAD
 vr839
 *   9be4327 Merge branch 'b1'
 |\  
@@ -83,5 +79,3 @@ vr839
 * | 60d92ed file 1 in Master
 |/  
 * 10c6a25 New
-=======
->>>>>>> 71d1bfc7d155c23c28fb96977874f658c708acaa
