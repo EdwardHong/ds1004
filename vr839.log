@@ -1,0 +1,21 @@
+vr839
+*   9be4327 Merge branch 'b1'
+|\  
+| *   10bce00 Merge branch 'b2' into b1
+| |\  
+| * | c462215 file 2 in B1
+* | |   b6223b9 Merge branch 'b2'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   99eb019 Merge branch 'master' into b2
+| |\ \  
+| | |/  
+| |/|   
+| * | 21923df file 1 in b1
+* | | d2d8898 file 2 in Master
+| |/  
+|/|   
+* | 60d92ed file 1 in Master
+|/  
+* 10c6a25 New
